@@ -59,4 +59,4 @@ echo ""
 rm -f /root/install.sh
 rm -f /root/.bash_history
 sleep 5
-echo " Setelah Selesai type menu-admin"
+echo " After Finish type menu-admin"
